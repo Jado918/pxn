@@ -1,0 +1,12 @@
+:root { //--primary changes buttons
+        //--primary-text changes -+ signs
+        //--secondary adds lines
+        //--accent changes box
+        //--accent text changes text inside the box
+    --primary: #0E2F44; 
+    --primary-text: #ffffff;
+    --secondary: #733F83;
+    --secondary-text: #0E2F44; 
+    --accent: #000000;
+    --accent-text: #ffffff;
+  }

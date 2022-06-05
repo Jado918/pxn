@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6be2169C13aE5A670294b04154191eB835501C88",
+  "SCAN_LINK": "https://etherscan.io/address/0x160c404b2b49cbc3240055ceaee026df1e8497a0",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "PxN NFT",
+  "SYMBOL": "PxN NFT",
+  "MAX_SUPPLY": 5555,
+  "WEI_COST": 55000000000000000,
+  "DISPLAY_COST": 0.055,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/pxnghostdivision",
+  "SHOW_BACKGROUND": true
+}
